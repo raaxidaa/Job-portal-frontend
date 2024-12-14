@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "image": "/r1.png",
+    "name": "Shopify",
+    "description": "Shopify, Stewart Butterfield, Eric C. tərəfindən qurulan, bulud əsaslı komanda əməkdaşlığı alətidir.",
+    "jobs": "12 İş Mövcuddur"
+  },
+  {
+    "id": 2,
+    "image": "/r2.png",
+    "name": "Intercom",
+    "description": "Intercom, Stewart Butterfield tərəfindən qurulan bulud əsaslı komanda əməkdaşlığı alətidir.",
+    "jobs": "12 İş Mövcuddur"
+  },
+  {
+    "id": 3,
+    "image": "/r3.png",
+    "name": "Mailchimp",
+    "description": "Mailchimp, Stewart Butterfield tərəfindən qurulan bulud əsaslı komanda əməkdaşlığı alətidir.",
+    "jobs": "12 İş Mövcuddur"
+  },
+  {
+    "id": 4,
+    "image": "/r4.png",
+    "name": "Telegram",
+    "description": "Telegram, Stewart Butterfield tərəfindən qurulan bulud əsaslı komanda əməkdaşlığı alətidir.",
+    "jobs": "12 İş Mövcuddur"
+  },
+  {
+    "id": 5,
+    "image": "/r5.png",
+    "name": "AirBnb",
+    "description": "AirBnb, Stewart Butterfield, Eric C. tərəfindən qurulan bulud əsaslı komanda əməkdaşlığı alətidir.",
+    "jobs": "12 İş Mövcuddur"
+  },
+  {
+    "id": 6,
+    "image": "/r6.png",
+    "name": "Meta",
+    "description": "Meta, Stewart Butterfield, Eric C. tərəfindən qurulan bulud əsaslı komanda əməkdaşlığı alətidir.",
+    "jobs": "12 İş Mövcuddur"
+  }
+]

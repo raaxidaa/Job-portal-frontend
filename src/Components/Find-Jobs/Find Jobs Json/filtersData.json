@@ -1,0 +1,26 @@
+{
+  "Roles": [
+      {"id": "Analyst", "label": "Analitik", "count": 0},
+      {"id": "Backend", "label": "Backend Developer", "count": 0},
+      {"id": "Business", "label": "Biznes İnkişafı", "count": 0},
+      {"id": "Data", "label": "Data Elm", "count": 0},
+      {"id": "Design", "label": "Dizayn", "count": 0},
+      {"id": "Engineer", "label": "Mühəndis", "count": 0},
+      {"id": "Marketing", "label": "Marketinq", "count": 0}
+  ],
+  "Seniority Level": [
+      {"id": "Junior", "label": "Junior", "count": 0},
+      {"id": "Mid-Level", "label": "Orta səviyyə", "count": 0},
+      {"id": "Senior", "label": "Senior", "count": 0},
+      {"id": "Expert", "label": "Ekspert və Liderlik", "count": 0}
+  ],
+  "Job Type": [
+      {"id": "Full-time", "label": "Tam zamanlı", "count": 0},
+      {"id": "Freelance", "label": "Freelance/Müqaviləli", "count": 0},
+      {"id": "Internship", "label": "Təcrübə", "count": 0},
+      {"id": "Part-time", "label": "Yarı zamanlı", "count": 0}
+  ],
+  "Remote": [
+      {"id": "Remote", "label": "Uzaqdan işləməyə açıq", "count": 0}
+  ]
+}
